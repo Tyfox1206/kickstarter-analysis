@@ -7,6 +7,8 @@ Completed analysis on Kickstarter data to find the likelihood of a campaign’s 
 
 ## Analysis and Challenges
 
+![Outcomes Vs Goals](https://github.com/Tyfox1206/kickstarter-analysis/tree/main/Resources/Outcomes_vs_Goals.png)
+
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
