@@ -7,11 +7,15 @@ Completed analysis on Kickstarter data to find the likelihood of a campaign’s 
 
 ## Analysis and Challenges
 
-![Outcomes Vs Goals](https://github.com/Tyfox1206/kickstarter-analysis/tree/main/Resources/Outcomes_vs_Goals.png)
+
 
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
+
+The data shows that after a certain dollar amount the likelihood of a campaign to succeed drops drastically. Campaigns that had a goal of less than 1000-dollars and campaigns in the 1000-dollar to 4999-dollar range had a much high success rate. With them having a 76% and 73% success rate respectively. There is a 25% drop-in success rate when you enter the 10000-dollar to 19999-dollar brackets. All three ranges have a 50%-55% success rate. From that point the success rate continues to drop. However, at the 35000-Dollar to 44999-dollar brackets there is an increase in success rate. The percentage of success jumps to 67%. It is worth mentioning here that these two brackets only had 6 projects in the 35000-dollar to 39999-dollar range and 3 projects in the 40000-dollar to 44999-dollar range. Whereas the less than 1000-dollar bracket had 186 projects with the before mentioned 76% and the 1000-dollar to 4999-dollar bracket had 534 projects with 73% success rates. The chart linked before shows the decrease in success rate as the goal increases. 
+
+![Outcomes Vs Goals](https://github.com/Tyfox1206/kickstarter-analysis/tree/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
