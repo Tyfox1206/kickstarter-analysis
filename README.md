@@ -21,6 +21,8 @@ The data shows that after a certain dollar amount the likelihood of a campaign t
 
 ### Challenges and Difficulties Encountered
 
+During the completion of the challenge there was one section that I had an issue with, and it was the creation of the line chart for outcomes based on goals. I had an issue where there was a line for successful, canceled, and failed. However, I was able to get over those changes when I studied the properties of the chart and found I could sort out the lines I was not looking for. 
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
