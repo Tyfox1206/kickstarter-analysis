@@ -30,6 +30,7 @@ During the completion of the challenge there was one section that I had an issue
   * The successful campaigns peak in May and then decline month over month for the rest of the year. 
  
 - What can you conclude about the Outcomes based on Goals?
+  * There is a much larger sample size for projects with less than a 5000-dollar goal and they have a much higher chance of success with 73% success rate. 
 
 - What are some limitations of this dataset?
 
