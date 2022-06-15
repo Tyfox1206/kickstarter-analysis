@@ -35,3 +35,4 @@ During the completion of the challenge there was one section that I had an issue
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+  * We could create a pie chart to show what percentage of successful campaigns where theater campaigns. Furthermore we could make a pie chart for the subcategories in the theater parent category to see what types of theater campaigns succeed the most. 
