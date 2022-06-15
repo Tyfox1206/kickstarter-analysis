@@ -26,7 +26,9 @@ During the completion of the challenge there was one section that I had an issue
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+  * There is a never a point where the failed campaigns surpass the successful campaigns.
+  * The successful campaigns peak in May and then decline month over month for the rest of the year. 
+ 
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
