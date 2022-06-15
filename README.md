@@ -33,6 +33,7 @@ During the completion of the challenge there was one section that I had an issue
   * There is a much larger sample size for projects with less than a 5000-dollar goal and they have a much higher chance of success with 73% success rate. 
 
 - What are some limitations of this dataset?
-
+  * There are a lot less high dollar value goals set in the theater category which skews our data heavily to the left. So if a campaign with high goal is set it will be difficult to make an accurate assessment on if the campaign will succeed or fail since there is little data for the high dollar value goals. 
+  
 - What are some other possible tables and/or graphs that we could create?
   * We could create a pie chart to show what percentage of successful campaigns where theater campaigns. Furthermore we could make a pie chart for the subcategories in the theater parent category to see what types of theater campaigns succeed the most. 
